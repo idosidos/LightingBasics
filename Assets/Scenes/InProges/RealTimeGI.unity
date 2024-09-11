@@ -135,7 +135,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1265337097555062, guid: 22d54001e0f3c45b68ba652f3c58c82f, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 127
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1616113347002194, guid: 22d54001e0f3c45b68ba652f3c58c82f, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -171,6 +171,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4884018552437654, guid: 22d54001e0f3c45b68ba652f3c58c82f, type: 3}
       propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 23791824703714716, guid: 22d54001e0f3c45b68ba652f3c58c82f,
+        type: 3}
+      propertyPath: m_ImportantGI
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 108068754283440332, guid: 22d54001e0f3c45b68ba652f3c58c82f,
